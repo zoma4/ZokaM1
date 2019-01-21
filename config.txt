@@ -1,0 +1,5 @@
+token=NTI0ODM5Mzc3MjUyMjUzNjk2.DyCvLg.14UR2io_QTJVKoRqF-_fgD1uWvo
+owner=433198762706599936
+prefix=#
+stayinchannel=true
+songinstatus=true 
