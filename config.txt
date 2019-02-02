@@ -1,5 +1,6 @@
-token=NTM2OTY3ODk0MTI3MzQ1Njc2.DyeZ4w.tNI9firIGnpYsZl57YsCMr8xsSw
-owner=433198762706599936
-prefix=t
+token=NTQxMzc5NTU4MzU2NjgwNzA0.Dzemhg.nKf9hLRIWax2KSAyYcq5H-r_xpE
+owner=512625982751113216
+prefix=1
+game=Condor♥
 stayinchannel=true
 songinstatus=true 
